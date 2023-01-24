@@ -7,7 +7,7 @@ Images can be downloaded at https://www.kaggle.com/aryashah2k/breast-ultrasound-
 <h2 align = center>
 	<a href="#about">Requirements</a>
 	<span> · </span>
-	<a href="#instructions">Instuctions</a>
+	<a href="#instructions">Instructions</a>
 	<span> · </span>
 	<a href="#license">License</a>
 </h2>
